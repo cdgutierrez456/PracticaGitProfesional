@@ -1,6 +1,20 @@
 body {
     background: lightgray;
-    color: black;
+    color: #333;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
 }
